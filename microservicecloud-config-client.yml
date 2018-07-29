@@ -4,7 +4,7 @@
     - dev
 ---
 server:
-  port:	9201
+  port: 9201
 spring:
     profiles: dev
     application:
@@ -15,7 +15,7 @@ eureka:
       defaultZone:  http://eureka-dev.com:9011/eureka/
 ---
 server:
-  port:	9202
+  port: 9202
 spring:
     profiles: test
     application:
