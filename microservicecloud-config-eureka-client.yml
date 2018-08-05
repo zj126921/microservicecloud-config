@@ -46,4 +46,3 @@ eureka:
       defaultZone:  http://eureka9011.com:9011/eureka/   #设置eureka server交互的地址查询服务和注册服务
 #      集群版
 #      defaultZone:  http://eureka9012.com:9012/eureka/,http://eureka9013.com:9013/eureka/   #设置eureka server交互的地址查询服务和注册服务
-
